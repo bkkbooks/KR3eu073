@@ -1,0 +1,226 @@
+canonical_identifier: bkk:krp/KR3eu073/v1
+canonical_location: https://kanripo.org/bkk/KR3eu073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 漢藥研究綱要
+  identifiers:
+    krp: KR3eu073
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu073.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu073_000.yaml, hash: 'sha256:2802044dbfce630b912c521e71444f6624e10e1277eb1982e7abb3764294a1c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu073_000.markers.yaml, hash: 'sha256:359336de61be8c60cb43a57c34f0d052a5e9478ce3db5c2559157c4d37545a43'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5237
+  label: 第一章漢藥之概念
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d2d2
+    span:
+    - body
+    - 8
+    - 718
+  label: 一漢藥之種類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d2d3
+    span:
+    - body
+    - 718
+    - 2375
+  label: 二中國現在通用之藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d2d4
+    span:
+    - body
+    - 2375
+    - 4398
+  label: 三漢藥之起源及其發達
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d2d5
+    span:
+    - body
+    - 4398
+    - 5237
+  label: 四將來漢藥研究之進路
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3.h1s1
+    span:
+    - body
+    - 5237
+    - 18641
+  label: 第二章中國曆代本草之概觀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d4
+    span:
+    - body
+    - 5360
+    - 6747
+  label: 一漢時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d5
+    span:
+    - body
+    - 6747
+    - 9903
+  label: 二魏晉南北朝時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d6
+    span:
+    - body
+    - 9903
+    - 11653
+  label: 三隋及唐時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d7
+    span:
+    - body
+    - 11653
+    - 15295
+  label: 四五代及宋時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d8
+    span:
+    - body
+    - 15295
+    - 16248
+  label: 五金及元時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d9
+    span:
+    - body
+    - 16248
+    - 17145
+  label: 六明時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d3d10
+    span:
+    - body
+    - 17145
+    - 18641
+  label: 七清時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4.h1s1
+    span:
+    - body
+    - 18641
+    - 28124
+  label: 第三章和漢藥與新藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4d32
+    span:
+    - body
+    - 20751
+    - 22132
+  label: 一鎮痛藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4d33
+    span:
+    - body
+    - 22132
+    - 25224
+  label: 二鎮咳祛痰藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4d34
+    span:
+    - body
+    - 25224
+    - 25788
+  label: 三尿防腐藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4d35
+    span:
+    - body
+    - 25788
+    - 26908
+  label: 四驅蛔藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d4d36
+    span:
+    - body
+    - 26908
+    - 28124
+  label: 五強心藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu073_jc_000-d5.h1s1
+    span:
+    - body
+    - 28124
+    - 28914
+  label: 第四章結論
+  type: section
+  level: 1
+hash: sha256:c4a439abf515b2ee3543858c2f270df43c0c9c1df49672e5531c1d75bc08273d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
