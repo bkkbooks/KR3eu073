@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu073/v1
 canonical_location: https://kanripo.org/bkk/KR3eu073/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 漢藥研究綱要
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eu073_000.yaml, hash: 'sha256:216d4cf40805158545432c467050ffa2e1dab1463a9dea22de2f73d37a5e6c4f'}
+  - {seq: 0, filename: KR3eu073_000.yaml, hash: 'sha256:404d86654273e9462e88824d3296228e011da6e325fae84d645ef60f3778b1ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu073_000.markers.yaml, hash: 'sha256:44ed6a98d6d87f0d442971a4bd3be08d8a268b32c662105af4c9107ea22a50a8'}
+  - {seq: 0, role: markers, filename: assets/KR3eu073_000.markers.yaml, hash: 'sha256:473957d1bf9f459e710810ab5d1fd269d45b77253fac49eded72f8d3476128b8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -220,4 +220,7 @@ table_of_contents:
   label: 第四章結論
   type: section
   level: 1
-hash: sha256:62d5569628c3e11c5f68684ddb782402a6c787ebb02bd4b3af84aa8e6edf2437
+hash: sha256:c604cd9f6fd6100febb71452f453cecf5bfda8ece9a370bce2cd8c082f7f15de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
